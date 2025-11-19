@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e784dd65-edb3-4a1c-bf68-1716b7c1467c" name="Changes" comment="[2주차] 윤준식">
-      <change afterPath="$PROJECT_DIR$/YoonJunSik/week_4/게임맵최단거리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YoonJunSik/week_4/네트워크-bfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YoonJunSik/week_4/네트워크-dfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YoonJunSik/week_5/땅따먹기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YoonJunSik/week_5/섬연결하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YoonJunSik/week_5/예산.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YoonJunSik/week_5/조이스틱.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +92,8 @@
       <workItem from="1762068705652" duration="2589000" />
       <workItem from="1762322411892" duration="431000" />
       <workItem from="1762668636022" duration="7361000" />
-      <workItem from="1762842856371" duration="5516000" />
+      <workItem from="1762842856371" duration="6709000" />
+      <workItem from="1763556158263" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="[2주차] 윤준식">
       <option name="closed" value="true" />
